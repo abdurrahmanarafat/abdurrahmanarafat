@@ -54,15 +54,6 @@
 
 ---
 
-### 📈 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your_github_username&theme=tokyonight&show_icons=true" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your_github_username&theme=tokyonight" />
-</p>
-
----
 
 ### 🔪 Recent Battles (CP Repos)
 
