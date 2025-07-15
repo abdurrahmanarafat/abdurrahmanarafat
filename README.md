@@ -40,7 +40,7 @@
 
 ---
 
-### ⚔️ A
+
 
 #### 🌀 
 <p align="center">
@@ -49,11 +49,11 @@
   <img src="https://media1.tenor.com/m/b1z5tskeGF4AAAAC/solo-leveling-sung-jin-woo.gif" width="180" />
 </p>
 
-#### 😳 Horny Weeb Break:
+#### 😳 
 <p align="center">
-  <img src="https://media.giphy.com/media/ArKx9F4fu5kZW/giphy.gif" width="180" />
-  <img src="https://media.giphy.com/media/nNxT5qXR02FOM/giphy.gif" width="180" />
-  <img src="https://media.giphy.com/media/7aU5yL2Wv7L28/giphy.gif" width="180" />
+  <img src="https://media1.tenor.com/m/Iy7uWP17ZvQAAAAd/anime-sad.gif" width="180" />
+  <img src="https://media1.tenor.com/m/ukwvYi0Olk8AAAAC/sad-anime-guy-lonely-anime-guy.gif" width="180" />
+  <img src="https://media1.tenor.com/m/Au00PE7HrxYAAAAC/sad.gif" width="180" />
 </p>
 
 > _"I study DSA... but her eyes distract me."_ — Probably You
