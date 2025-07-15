@@ -24,7 +24,7 @@
 
 | Platform | Rank | Handle |
 |----------|------|--------|
-| Codeforces | ? | [`@your_cf_handle`](https://codeforces.com/profile/weepinbelllllllll) |
+| Codeforces | ? | [`cf_handle`](https://codeforces.com/profile/weepinbelllllllll) |
 | LeetCode | 300+ | [`@your_leetcode`](https://leetcode.com/your_leetcode) |
 | AtCoder |  | [`@your_atcoder`](https://atcoder.jp/users/your_atcoder) |
 | CodeChef |  | [`@your_codechef`](https://www.codechef.com/users/your_codechef) |
@@ -34,20 +34,19 @@
 ### 🧠 My Stack of Brains
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### ⚔️ Anime Mode: Activated
+### ⚔️ A
 
-#### 🌀 Action Anime Vibes:
+#### 🌀 
 <p align="center">
-  <img src="https://media.giphy.com/media/oosxvIU9c3g9q/giphy.gif" width="180" />
-  <img src="https://media.giphy.com/media/2t9sDPrlvFpdK/giphy.gif" width="180" />
-  <img src="https://media.giphy.com/media/JtBZm5QApNwfq/giphy.gif" width="180" />
+  <img src="https://media1.tenor.com/m/EdV_frZ4e_QAAAAC/anime-naruto.gif" width="180" />
+  <img src="https://media1.tenor.com/m/beMRwzm5cCcAAAAC/ragna-crimson.gif" width="180" />
+  <img src="https://media1.tenor.com/m/b1z5tskeGF4AAAAC/solo-leveling-sung-jin-woo.gif" width="180" />
 </p>
 
 #### 😳 Horny Weeb Break:
