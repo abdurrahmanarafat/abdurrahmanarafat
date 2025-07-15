@@ -59,7 +59,7 @@
 
 | Repo | Description | Language |
 |------|-------------|----------|
-| [`codeforces-solutions`](https://github.com/yourname/codeforces-solutions) | My accepted + rage quit submissions | C++ |
+| [`codeforces-solutions`](https://github.com/abdurrahmanarafat/CF_solution_with_JAVA) | My accepted + rage quit submissions | Java |
 | [`leetcode-dsa`](https://github.com/yourname/leetcode-dsa) | Daily LC grind 📈 | Python |
 | [`atcoder-arc`](https://github.com/yourname/atcoder-arc) | AtCoder Regular Contest archives | C++ |
 
