@@ -1,7 +1,7 @@
 <h1 align="center">🔥 Competitive Programmer by Day, Weeb by Night 🔥</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LRmJ3sM3D6gB6/giphy.gif" width="220px" />
+  <img src="https://i.gifer.com/embedded/download/VVC.gif" width="220px" />
 </p>
 
 <p align="center">
