@@ -43,20 +43,14 @@
 
 
 #### 🌀 
-<p align="center">
-  <img src="https://media1.tenor.com/m/EdV_frZ4e_QAAAAC/anime-naruto.gif" width="180" />
-  <img src="https://media1.tenor.com/m/beMRwzm5cCcAAAAC/ragna-crimson.gif" width="180" />
-  <img src="https://media1.tenor.com/m/b1z5tskeGF4AAAAC/solo-leveling-sung-jin-woo.gif" width="180" />
-</p>
 
-#### 😳 
 <p align="center">
   <img src="https://media1.tenor.com/m/Iy7uWP17ZvQAAAAd/anime-sad.gif" width="180" />
   <img src="https://media1.tenor.com/m/ukwvYi0Olk8AAAAC/sad-anime-guy-lonely-anime-guy.gif" width="180" />
   <img src="https://media1.tenor.com/m/Au00PE7HrxYAAAAC/sad.gif" width="180" />
 </p>
 
-> _"I study DSA... but her eyes distract me."_ — Probably You
+> _"I study DSA... but her eyes distract me."_ — Probably me
 
 ---
 
