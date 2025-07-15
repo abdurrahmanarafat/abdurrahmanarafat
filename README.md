@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Hey there! I'm <span style="color:#ff4db8;">YourName</span> 🧠💻</b><br>
+  <b>Hey there! I'm <span style="color:#ff4db8;">ARAFAT</span> 🧠💻</b><br>
   Just a normal guy with 300+ WA on Codeforces and 0 girlfriends 😤
 </p>
 
