@@ -94,7 +94,7 @@
 <p align="center">
   <a href="https://t.me/yourhandle"><img src="https://img.shields.io/badge/Telegram-%23121011.svg?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://x.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/abdurrahmanarafat"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
