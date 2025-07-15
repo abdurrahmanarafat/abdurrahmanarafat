@@ -6,16 +6,16 @@
 
 <p align="center">
   <b>Hey there! I'm <span style="color:#ff4db8;">ARAFAT</span> 🧠💻</b><br>
-  Just a normal guy with 300+ WA on Codeforces 😤
+  Just a normal guy with 1000+ WA on Codeforces 😤
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-- 🧩 Focused on: **DSA, CP, Algorithms, Debugging at 3AM**
-- 💻 Platforms: Codeforces, LeetCode, AtCoder, CodeChef, HackerRank
-- 🎯 Goal: Become a 5★ Codeforces god or die WA'ing trying
-- 💬 Always down to talk: segment trees, anime, and existential bugs
+- 🧩 Focused on: **DSA, CP, Algorithms , Problem Solving**
+- 💻 Platforms: Codeforces, LeetCode, AtCoder, CodeChef , Basecamp
+- 🎯 Goal: Become a Expert Codeforces  or die WA'ing trying
+- 💬 Always down to talk: segment trees, hanime, and existential bugs
 - 🧠  Favorite Tag: `dp + bitmask` (kill me)
 
 ---
@@ -24,7 +24,7 @@
 
 | Platform | Rank | Handle |
 |----------|------|--------|
-| Codeforces | Pupil/Expert? | [`@your_cf_handle`](https://codeforces.com/profile/your_cf_handle) |
+| Codeforces | ? | [`@your_cf_handle`](https://codeforces.com/profile/weepinbelllllllll) |
 | LeetCode | 300+ | [`@your_leetcode`](https://leetcode.com/your_leetcode) |
 | AtCoder |  | [`@your_atcoder`](https://atcoder.jp/users/your_atcoder) |
 | CodeChef |  | [`@your_codechef`](https://www.codechef.com/users/your_codechef) |
